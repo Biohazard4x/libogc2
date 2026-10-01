@@ -56,6 +56,7 @@ distribution.
 #include "ogc/lwp.h"
 #include "ogc/mutex.h"
 #include "ogc/message.h"
+#include "ogc/module.h"
 #include "ogc/semaphore.h"
 #include "ogc/pad.h"
 #include "ogc/tpl.h"
